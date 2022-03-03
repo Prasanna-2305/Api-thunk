@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+.more{
+    font-size: 50px;
+}
+
+.input{
+    margin: 0 0 0 0;
+    padding: 0 1.5 1.5 1.5;
+    width: 5%;
+    background-color: white;
+}
+
+.quantity_minus{
+    background-color: black;
+    color:white;
+    width: 3%;
+    height: 5%;
+}
+
+.quantity_plus{
+    background-color: black;
+    color: white;
+    width: 3%;
+    height: 5%;
+}
